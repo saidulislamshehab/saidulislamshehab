@@ -71,6 +71,24 @@
 
 <br/>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saidulislamshehab&custom_title=Contribution%20Graph&bg_color=0d1117&color=f85d7f&line=f8d866&point=c9d1d9&area_color=f8d866&area=true&hide_border=true" alt="Contribution Graph"/>
+</div>
+
+<br/>
+
+## 🌍 Global Contribution Insights
+
+<div align="center">
+  <img
+    src="https://ssr-contributions-svg.vercel.app/_/saidulislamshehab?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&weeks=50&theme=pink&widget_size=large&format=svg"
+    alt="3D Contribution Chart"
+    width="100%"
+  />
+</div>
+
+<br/>
+
 <h2>🛠️ My Favorite Tools and Technologies</h2>
 
 <div style="display: flex; align-items: flex-start; align: center">
@@ -196,62 +214,135 @@
 
 <br/>
 
-  <h2>🛠️ Detailed Tools & Skills</h2>
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                    🛠️ ULTIMATE PROFESSIONAL TECH STACK                          -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-  <h3>👨‍💻 Programming and Markup Languages</h3>
+<div align="center">
 
-  <p>
-      <a href="https://github.com/search?q=user%3Asaidulislamshehab+language%3Aassembly"><img alt="MIPS Assembly" src="https://custom-icon-badges.demolab.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Asaidulislamshehab+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Asaidulislamshehab+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Asaidulislamshehab+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Asaidulislamshehab+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Asaidulislamshehab+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Asaidulislamshehab+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Asaidulislamshehab+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Asaidulislamshehab+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-      <a href="https://github.com/search?q=user%3Asaidulislamshehab+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Asaidulislamshehab+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Asaidulislamshehab+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Asaidulislamshehab+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Asaidulislamshehab+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Asaidulislamshehab+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
-  </p>
+## ⚡ Tech Stack & Expertise
 
-  <h3>🧰 Frameworks and Libraries</h3>
-
-  <p>
-      <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-      <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
-      <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
-      <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
-      <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-      <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
-      <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
-  </p>
-
-  <h3>🗄️ Databases and Cloud Hosting</h3>
-
-  <p>
-      <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-      <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
-      <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
-      <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-      <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
-      <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
-  </p>
-
-  <h3>💻 Software and Tools</h3>
-
-  <p>
-      <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
-      <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
-      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-      <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
-      <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-      <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-      <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-      <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
+
+<!-- Animated Header -->
+<a href="https://github.com/saidulislamshehab">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&repeat=true&random=false&width=500&height=40&lines=💻+Technologies+I+Master;🚀+Tools+That+Power+My+Work;⚡+Always+Evolving+My+Skills" alt="Tech Header"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════ LANGUAGES ═══════════════════════ -->
+<div align="center">
+
+### 「 💻 Programming Languages 」
+
+<br/>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,dart,python,cpp,c,java,html,css&theme=dark" alt="Programming Languages"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════ FRAMEWORKS ═══════════════════════ -->
+<div align="center">
+
+### 「 🎨 Frontend & Frameworks 」
+
+<br/>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap,materialui,sass,redux&theme=dark" alt="Frontend & Frameworks"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════ MOBILE ═══════════════════════ -->
+<div align="center">
+
+### 「 📱 Mobile Development 」
+
+<br/>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,kotlin&theme=dark" alt="Mobile Development"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════ BACKEND ═══════════════════════ -->
+<div align="center">
+
+### 「 ⚙️ Backend & Database 」
+
+<br/>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql,postgresql,sqlite,fastapi&theme=dark" alt="Backend & Database"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════ TOOLS ═══════════════════════ -->
+<div align="center">
+
+### 「 🔧 DevOps & Tools 」
+
+<br/>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,postman,figma,vercel,netlify,linux,docker,npm,yarn&theme=dark" alt="DevOps & Tools"/>
+</a>
+
+</div>
+
+<br/>
+
+<br/>
+
+<!-- ═══════════════════════ SKILL BARS ═══════════════════════ -->
+<div align="center">
+
+### 「 📊 Proficiency Levels 」
+
+<br/>
+
+|  🏷️ Category  | 🛠️ Technologies                   |          📈 Proficiency           |
+| :-----------: | :-------------------------------- | :-------------------------------: |
+| **Frontend**  | React, Next.js, Vite, TailwindCSS | ![](https://geps.dev/progress/95) |
+|  **Mobile**   | Flutter, Dart, Android            | ![](https://geps.dev/progress/90) |
+|  **Backend**  | Node.js, Express, Firebase        | ![](https://geps.dev/progress/85) |
+| **Database**  | MongoDB, MySQL, Firebase          | ![](https://geps.dev/progress/80) |
+| **Languages** | JavaScript, Dart, Python, C++     | ![](https://geps.dev/progress/90) |
+|  **DevOps**   | Git, GitHub Actions, Docker       | ![](https://geps.dev/progress/75) |
+|   **AI/ML**   | TensorFlow, Pandas, NumPy         | ![](https://geps.dev/progress/60) |
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- Stats Summary -->
+<p>
+  <img src="https://img.shields.io/badge/Total_Technologies-40+-F85D7F?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Years_of_Experience-1.5+-00D9FF?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Projects_Completed-20+-F8D866?style=for-the-badge&labelColor=0D1117"/>
+</p>
+
+</div>
