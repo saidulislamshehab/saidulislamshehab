@@ -218,25 +218,11 @@
 <!--                    🛠️ ULTIMATE PROFESSIONAL TECH STACK                          -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-
 ## ⚡ Tech Stack & Expertise
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- Animated Header -->
-<a href="https://github.com/saidulislamshehab">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&repeat=true&random=false&width=500&height=40&lines=💻+Technologies+I+Master;🚀+Tools+That+Power+My+Work;⚡+Always+Evolving+My+Skills" alt="Tech Header"/>
-</a>
-
-</div>
 
 <br/>
 
 <!-- ═══════════════════════ LANGUAGES ═══════════════════════ -->
-<div align="center">
 
 ### 「 💻 Programming Languages 」
 
@@ -246,12 +232,9 @@
   <img src="https://skillicons.dev/icons?i=js,ts,dart,python,cpp,c,java,html,css&theme=dark" alt="Programming Languages"/>
 </a>
 
-</div>
-
 <br/>
 
 <!-- ═══════════════════════ FRAMEWORKS ═══════════════════════ -->
-<div align="center">
 
 ### 「 🎨 Frontend & Frameworks 」
 
@@ -261,12 +244,9 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap,materialui,sass,redux&theme=dark" alt="Frontend & Frameworks"/>
 </a>
 
-</div>
-
 <br/>
 
 <!-- ═══════════════════════ MOBILE ═══════════════════════ -->
-<div align="center">
 
 ### 「 📱 Mobile Development 」
 
@@ -276,12 +256,9 @@
   <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,kotlin&theme=dark" alt="Mobile Development"/>
 </a>
 
-</div>
-
 <br/>
 
 <!-- ═══════════════════════ BACKEND ═══════════════════════ -->
-<div align="center">
 
 ### 「 ⚙️ Backend & Database 」
 
@@ -291,12 +268,9 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql,postgresql,sqlite,fastapi&theme=dark" alt="Backend & Database"/>
 </a>
 
-</div>
-
 <br/>
 
 <!-- ═══════════════════════ TOOLS ═══════════════════════ -->
-<div align="center">
 
 ### 「 🔧 DevOps & Tools 」
 
@@ -305,8 +279,6 @@
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,postman,figma,vercel,netlify,linux,docker,npm,yarn&theme=dark" alt="DevOps & Tools"/>
 </a>
-
-</div>
 
 <br/>
 
@@ -327,7 +299,6 @@
 | **Database**  | MongoDB, MySQL, Firebase          | ![](https://geps.dev/progress/80) |
 | **Languages** | JavaScript, Dart, Python, C++     | ![](https://geps.dev/progress/90) |
 |  **DevOps**   | Git, GitHub Actions, Docker       | ![](https://geps.dev/progress/75) |
-|   **AI/ML**   | TensorFlow, Pandas, NumPy         | ![](https://geps.dev/progress/60) |
 
 </div>
 
