@@ -14,6 +14,7 @@
 
   <br/>
 
+
   <!-- Bold Custom Badges -->
   <p>
     <img src="https://img.shields.io/badge/Focus-AI_%26_GenAI-FF4B4B?style=for-the-badge&logo=openai&logoColor=white&labelColor=101010"/>
@@ -25,13 +26,13 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://twitter.com/saidulislamshehab"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#" alt="Discord" title="Discord"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/saidulislamshehab"><img width="32px" alt="Dev.to" title="saidulislamshehab Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/saidulislamshehab"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+  <a href="https://www.facebook.com/saidul.islam.shehab.me/"><img src="https://skillicons.dev/icons?i=facebook" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/saidul_islam_shehab/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  &nbsp;&nbsp;
+  <a href="mailto:saidulislamshehab@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  &nbsp;&nbsp;
+  <a href="https://discord.com/users/saidulislamshehab"><img src="https://skillicons.dev/icons?i=discord" /></a>
 </p>
 
 <br/>
@@ -53,7 +54,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saidulislamshehab&theme=radical&hide_border=false" alt="GitHub Stats"><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saidulislamshehab&theme=radical&hide_border=false" alt="GitHub Streak"><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saidulislamshehab&theme=radical&hide_border=false&layout=compact" alt="Top Languages">
 </p>
 
