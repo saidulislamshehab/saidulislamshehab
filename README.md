@@ -10,12 +10,6 @@
   I'm always looking to collaborate on exciting tech projects that push boundaries!
 </p>
 
-<p align="center">
-    <a href="https://github.com/saidulislamshehab/simple-view-counter">
-        <img src="https://komarev.com/ghpvc/?username=saidulislamshehab&abbreviated=true" alt="profile-view">
-    </a>
-</p>
-
 <br>
 
 <!-- Social icons section -->
@@ -46,19 +40,25 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-    <a href="https://wakatime.com/@saidulislamshehab">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=saidulislamshehab&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph" width="95%" alt="activity graph">
-    </a>
+  <a href="https://github.com/saidulislamshehab/simple-view-counter">
+    <img src="https://komarev.com/ghpvc/?username=saidulislamshehab&abbreviated=true" alt="profile-view">
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/saidulislamshehab?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=saidulislamshehab&theme=radical&show_icons=true&include_all_commits=true&count_private=true&hide_border=false"  width="48%" alt="@saidulislamshehab's github-readme-stats"/></a>
-  <a href="https://github.com/saidulislamshehab?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=saidulislamshehab&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@saidulislamshehab's github-readme-streak-stats"/></a>
+  <a href="https://wakatime.com/@saidulislamshehab">
+    <img src="https://wakatime.com/badge/user/saidulislamshehab.svg" alt="WakaTime Badge" />
+  </a>
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saidulislamshehab&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saidulislamshehab&theme=radical&hide_border=false" alt="GitHub Streak"><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saidulislamshehab&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
 </p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <h3>🏆 GitHub Trophies</h3>
 
