@@ -46,16 +46,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saidulislamshehab&theme=radical&hide_border=false&layout=compact" alt="Top Languages">
 </p>
 
-<h3>🏆 GitHub Trophies</h3>
-
-<p align="center">
-  <a href="https://github.com/saidulislamshehab?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=saidulislamshehab&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="@saidulislamshehab's trophy stats"/></a>
-</p>
-
-<p align="center">
-<a href="https://wakatime.com/@saidulislamshehab"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=saidulislamshehab&theme=radical&hide_border=false&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@saidulislamshehab's wakatime stats"/></a>
-</p>
-
 <br/>
 
 <p align="center"><img src="https://raw.githubusercontent.com/saidulislamshehab/saidulislamshehab/output/github-contribution-grid-snake.svg" alt="snake contribution graph" style="max-width: 100%;"></p>
@@ -245,29 +235,6 @@
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
-</details>
-
-<br/>
-
-<details open> 
-  <summary><h2>🌠 Top Sponsors</h2></summary>
-  <table>
-    <tr>
-      <th>$5+/month</th>
-    </tr>
-    <tr>
-      <td>
-        <!-- Placeholder for sponsors -->
-        <a href="https://github.com/sponsors/saidulislamshehab/"><img src="https://custom-icon-badges.demolab.com/badge/-Sponsor%20Me-white?style=for-the-badge&logo=github&logoColor=black"/></a>
-      </td>
-    </tr>
-  </table>
-  <a href="https://github.com/sponsors/saidulislamshehab/"><img alt="Sponsor me" title="Sponsorship" src="https://custom-icon-badges.demolab.com/badge/-More%20About%20My%20Sponsorship%20Tiers-1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
-</details>
-
-<details> 
-  <summary><h2>🏷️ Holopin Badges</h2></summary>
-  <p><a href="https://holopin.io/@saidulislamshehab"><img src="https://holopin.me/saidulislamshehab" alt="@saidulislamshehab's Holopin board"></a></p>
 </details>
 
 <br/>
