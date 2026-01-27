@@ -6,12 +6,15 @@
 
 <div align="center">
 
-  <p align="center">
-    <br/><br/>
-    I love turning raw ideas into robust <b>Web & Backend Applications</b>. <br/>
-    My journey is defined by a deep curiosity for <b>Software Engineering</b> and <b>Data-Driven Systems</b>,<br/> 
-    constantly leveling up my skills to build the tech of tomorrow! ✨
-  </p>
+  <br/>
+  
+  ```js
+  const aboutMe = {
+    passion: "Turning raw ideas into robust Web & Backend Applications",
+    curiosity: "Deep dive into Software Engineering & Data-Driven Systems",
+    goal: "Building the tech of tomorrow! ✨"
+  };
+  ```
 
   <br/>
 
@@ -36,6 +39,8 @@
   <a href="mailto:saidulislamshehab@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/></a>
   &nbsp;&nbsp;
   <a href="https://discord.com/users/saidulislamshehab"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+  &nbsp;&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/></a>
 </p>
 
 <br/>
