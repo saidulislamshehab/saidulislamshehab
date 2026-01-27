@@ -1,24 +1,17 @@
 <div align="center">
   
   <!-- Unique Waving Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00B4DB,100:0083B0&height=220&section=header&text=Saidul%20Islam%20Shehab&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%20AI%20Engineer%20%7C%20Web3%20Developer&descAlignY=60&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00B4DB,100:0083B0&height=220&section=header&text=Saidul%20Islam%20Shehab&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Backend%20Oriented&descAlignY=60&descSize=20" width="100%"/>
 </div>
 
 <div align="center">
-  <br/>
-  
-  <br/>
-  
+
   <p align="center">
-    I'm a CSE student passionate about programming and problem-solving.<br/>
-    I enjoy turning ideas into real applications and constantly improving my skills.
+    <br/><br/>
+    I love turning raw ideas into robust <b>Web & Backend Applications</b>. <br/>
+    My journey is defined by a deep curiosity for <b>Software Engineering</b> and <b>Data-Driven Systems</b>,<br/> 
+    constantly leveling up my skills to build the tech of tomorrow! ✨
   </p>
-  
-  <ul align="left" style="margin-left: 100px;">
-    <li>Working on web and backend projects</li>
-    <li>Learning new technologies every day</li>
-    <li>Interested in software engineering & data-driven systems</li>
-  </ul>
 
   <br/>
 
@@ -31,11 +24,6 @@
   <br/><br/>
 
   <!-- Bold Custom Badges -->
-  <p>
-    <img src="https://img.shields.io/badge/Focus-AI_%26_GenAI-FF4B4B?style=for-the-badge&logo=openai&logoColor=white&labelColor=101010"/>
-    <img src="https://img.shields.io/badge/Stack-Full_Stack_Web-blue?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=101010"/>
-    <img src="https://img.shields.io/badge/Domain-Web3_%26_Blockchain-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white&labelColor=101010"/>
-  </p>
 
 </div>
 
