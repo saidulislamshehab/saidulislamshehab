@@ -7,13 +7,28 @@
 <div align="center">
   <br/>
   
-  <!-- Python Code Typing Animation for AI Focus -->
-  <a href="https://github.com/saidulislamshehab">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=33E65B&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=def+init_developer()%3A;++++name+%3D+%22Saidul%22;++++skills+%3D+%5B%22AI%22%2C+%22GenAI%22%2C+%22Web3%22%5D;++++return+build_future(skills)" alt="Python Code Typing" />
-  </a>
+  <br/>
+  
+  <p align="center">
+    I'm a CSE student passionate about programming and problem-solving.<br/>
+    I enjoy turning ideas into real applications and constantly improving my skills.
+  </p>
+  
+  <ul align="left" style="margin-left: 100px;">
+    <li>Working on web and backend projects</li>
+    <li>Learning new technologies every day</li>
+    <li>Interested in software engineering & data-driven systems</li>
+  </ul>
 
   <br/>
 
+  <!-- Python Code Typing Animation for AI Focus -->
+  <a href="https://github.com/saidulislamshehab">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=33E65B&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=180&lines=def+init_developer()%3A;++++name+%3D+%22Saidul%22;++++skills+%3D+%5B%22AI%22%2C+%22GenAI%22%2C+%22Web3%22%5D;++++return+build_future(skills)" alt="Python Code Typing" />
+  </a>
+
+  <br/>
+  <br/><br/>
 
   <!-- Bold Custom Badges -->
   <p>
@@ -26,13 +41,13 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.facebook.com/saidul.islam.shehab.me/"><img src="https://skillicons.dev/icons?i=facebook" /></a>
+  <a href="https://www.facebook.com/saidul.islam.shehab.me/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/></a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/saidul_islam_shehab/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://www.instagram.com/saidul_islam_shehab/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
   &nbsp;&nbsp;
-  <a href="mailto:saidulislamshehab@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="mailto:saidulislamshehab@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/></a>
   &nbsp;&nbsp;
-  <a href="https://discord.com/users/saidulislamshehab"><img src="https://skillicons.dev/icons?i=discord" /></a>
+  <a href="https://discord.com/users/saidulislamshehab"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 </p>
 
 <br/>
@@ -44,7 +59,7 @@
   <a href="https://github.com/saidulislamshehab?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/saidulislamshehab?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/saidulislamshehab/simple-view-counter">
-    <img src="https://komarev.com/ghpvc/?username=saidulislamshehab&abbreviated=true" alt="profile-view">
+    <img src="https://komarev.com/ghpvc/?username=saidulislamshehab&abbreviated=true&style=for-the-badge&label=Profile%20Views&color=55960c" alt="profile-view">
   </a>
 </p>
 
