@@ -31,10 +31,6 @@
 
 <br/>
 
-<p align="center"><img src="https://raw.githubusercontent.com/saidulislamshehab/saidulislamshehab/output/github-contribution-grid-snake.svg" alt="snake contribution graph" style="max-width: 100%;"></p>
-
-<br/>
-
 <!-- Social badges section -->
 <p align="center">
   <a href="https://github.com/saidulislamshehab?tab=repositories&sort=stargazers">
@@ -44,6 +40,39 @@
   <a href="https://github.com/saidulislamshehab/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/saidulislamshehab-profile-views"/></a>
 </p>
+
+<br/>
+
+# 📊 GitHub Stats:
+
+<p align="center">
+    <a href="https://wakatime.com/@saidulislamshehab">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=saidulislamshehab&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph" width="95%" alt="activity graph">
+    </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/saidulislamshehab?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=saidulislamshehab&theme=radical&show_icons=true&include_all_commits=true&count_private=true&hide_border=false"  width="48%" alt="@saidulislamshehab's github-readme-stats"/></a>
+  <a href="https://github.com/saidulislamshehab?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=saidulislamshehab&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@saidulislamshehab's github-readme-streak-stats"/></a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saidulislamshehab&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+</p>
+
+<h3>🏆 GitHub Trophies</h3>
+
+<p align="center">
+  <a href="https://github.com/saidulislamshehab?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=saidulislamshehab&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="@saidulislamshehab's trophy stats"/></a>
+</p>
+
+<p align="center">
+<a href="https://wakatime.com/@saidulislamshehab"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=saidulislamshehab&theme=radical&hide_border=false&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@saidulislamshehab's wakatime stats"/></a>
+</p>
+
+<br/>
+
+<p align="center"><img src="https://raw.githubusercontent.com/saidulislamshehab/saidulislamshehab/output/github-contribution-grid-snake.svg" alt="snake contribution graph" style="max-width: 100%;"></p>
 
 <br/>
 
@@ -254,36 +283,5 @@
   <summary><h2>🏷️ Holopin Badges</h2></summary>
   <p><a href="https://holopin.io/@saidulislamshehab"><img src="https://holopin.me/saidulislamshehab" alt="@saidulislamshehab's Holopin board"></a></p>
 </details>
-
-<br/>
-
-# 📊 GitHub Stats:
-
-<p align="center">
-  <a href="https://github.com/saidulislamshehab?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=saidulislamshehab&theme=radical&show_icons=true&include_all_commits=true&count_private=true&hide_border=false"  width="48%" alt="@saidulislamshehab's github-readme-stats"/></a>
-  <a href="https://github.com/saidulislamshehab?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=saidulislamshehab&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@saidulislamshehab's github-readme-streak-stats"/></a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saidulislamshehab&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
-</p>
-
-<h3>🏆 GitHub Trophies</h3>
-
-<p align="center">
-  <a href="https://github.com/saidulislamshehab?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=saidulislamshehab&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="@saidulislamshehab's trophy stats"/></a>
-</p>
-
-<!-- activity graph heroku-app start -->
-<p align="center">
-    <a href="https://wakatime.com/@saidulislamshehab">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=saidulislamshehab&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph" width="95%" alt="activity graph">
-    </a>
-</p>
-<!-- activity graph heroku-app end -->
-
-<p align="center">
-<a href="https://wakatime.com/@saidulislamshehab"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=saidulislamshehab&theme=radical&hide_border=false&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@saidulislamshehab's wakatime stats"/></a>
-</p>
 
 <br/>
