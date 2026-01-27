@@ -31,8 +31,9 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/saidulislamshehab?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/saidulislamshehab?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/saidulislamshehab?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/saidulislamshehab/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/saidulislamshehab-profile-views"/></a>
+  <a href="https://github.com/saidulislamshehab/simple-view-counter">
+    <img src="https://komarev.com/ghpvc/?username=saidulislamshehab&abbreviated=true" alt="profile-view">
+  </a>
 </p>
 
 <br/>
@@ -40,25 +41,10 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-  <a href="https://github.com/saidulislamshehab/simple-view-counter">
-    <img src="https://komarev.com/ghpvc/?username=saidulislamshehab&abbreviated=true" alt="profile-view">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://wakatime.com/@saidulislamshehab">
-    <img src="https://wakatime.com/badge/user/saidulislamshehab.svg" alt="WakaTime Badge" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saidulislamshehab&theme=radical&hide_border=false" alt="GitHub Stats"><br/>
-  <img src="https://streak-stats.demolab.com/?user=saidulislamshehab&theme=radical&hide_border=false" alt="GitHub Streak"><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saidulislamshehab&theme=radical&hide_border=false" alt="GitHub Streak"><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saidulislamshehab&theme=radical&hide_border=false&layout=compact" alt="Top Languages">
 </p>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 <h3>🏆 GitHub Trophies</h3>
 
