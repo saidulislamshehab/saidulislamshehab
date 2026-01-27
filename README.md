@@ -1,8 +1,13 @@
-<h1 align="center">Hi 👋, Welcome to my profile</h1>
+<h1 align="center">Hi there, I'm Saidul Islam Shehab <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Saidul+Islam+Shehab" alt="Saidul" /></a>
-  <a href="https://github.com/saidulislamshehab/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Tech+Enthusiast;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&random=false&width=435&lines=Full+Stack+Developer;AI+%26+Web3+Enthusiast;Open+Source+Contributor;Always+Learning+New+Tech" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  I'm a passionate <b>Full Stack Developer</b> with a deep interest in <b>Artificial Intelligence</b> and <b>Web3</b>. 
+  Currently, I'm focusing on open-source projects and expanding my skills in <b>GenAI</b> and <b>Cloud Architecture</b>. 
+  I'm always looking to collaborate on exciting tech projects that push boundaries!
 </p>
 
 <p align="center">
@@ -10,13 +15,6 @@
         <img src="https://komarev.com/ghpvc/?username=saidulislamshehab&abbreviated=true" alt="profile-view">
     </a>
 </p>
-
-<br>
-
-- 😄 I have interests in Full Stack, AI, Web3
-- 🔭 I’m currently working on open source projects
-- 🌱 I’m currently learning GenAI and Cloud Architecture
-- 👯 I’m looking to collaborate on exciting tech projects
 
 <br>
 
