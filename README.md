@@ -1,16 +1,27 @@
-<h1 align="center">Hi there, I'm Saidul Islam Shehab <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+<div align="center">
+  
+  <!-- Unique Waving Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00B4DB,100:0083B0&height=220&section=header&text=Saidul%20Islam%20Shehab&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%20AI%20Engineer%20%7C%20Web3%20Developer&descAlignY=60&descSize=20" width="100%"/>
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&random=false&width=435&lines=Full+Stack+Developer;AI+%26+Web3+Enthusiast;Open+Source+Contributor;Always+Learning+New+Tech" alt="Typing SVG" />
-</p>
+<div align="center">
+  <br/>
+  
+  <!-- Python Code Typing Animation for AI Focus -->
+  <a href="https://github.com/saidulislamshehab">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=33E65B&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=def+init_developer()%3A;++++name+%3D+%22Saidul%22;++++skills+%3D+%5B%22AI%22%2C+%22GenAI%22%2C+%22Web3%22%5D;++++return+build_future(skills)" alt="Python Code Typing" />
+  </a>
 
-<p align="center">
-  I'm a passionate <b>Full Stack Developer</b> with a deep interest in <b>Artificial Intelligence</b> and <b>Web3</b>. 
-  Currently, I'm focusing on open-source projects and expanding my skills in <b>GenAI</b> and <b>Cloud Architecture</b>. 
-  I'm always looking to collaborate on exciting tech projects that push boundaries!
-</p>
+  <br/>
 
-<br>
+  <!-- Bold Custom Badges -->
+  <p>
+    <img src="https://img.shields.io/badge/Focus-AI_%26_GenAI-FF4B4B?style=for-the-badge&logo=openai&logoColor=white&labelColor=101010"/>
+    <img src="https://img.shields.io/badge/Stack-Full_Stack_Web-blue?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=101010"/>
+    <img src="https://img.shields.io/badge/Domain-Web3_%26_Blockchain-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white&labelColor=101010"/>
+  </p>
+
+</div>
 
 <!-- Social icons section -->
 <p align="center">
@@ -177,8 +188,7 @@
 
 <br/>
 
-<details> 
-  <summary><h2>🛠️ Detailed Tools & Skills</h2></summary>
+  <h2>🛠️ Detailed Tools & Skills</h2>
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
 
@@ -235,6 +245,5 @@
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
-</details>
 
 <br/>
