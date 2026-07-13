@@ -40,7 +40,7 @@
   &nbsp;&nbsp;
   <a href="https://discord.com/users/saidulislamshehab"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
   &nbsp;&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/></a>
+  <a href="https://saidulislamshehab.me"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/></a>
 </p>
 
 <br/>
